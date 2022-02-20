@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cheekynut
-- 👀 I’m interested in CCNA,CCNP,
+- 👀 I’m interested in CCNA,CCNP
 - 🌱 I’m currently learning CCNA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
